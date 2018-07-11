@@ -1,5 +1,5 @@
 # Forensic-Imager
-A GUI tool on Raspberry Pi for creating Images from digital media. Forensic Imager is targeted to be portable, easy to use and forensicly sound.
+A GUI tool on Raspberry Pi for creating Images from digital media. Forensic Imager is targeted to be portable, easy to use and forensically sound.
 
 # Usage
 sudo ./app.py
