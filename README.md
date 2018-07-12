@@ -3,6 +3,7 @@ A GUI tool on Raspberry Pi for creating Images from digital media. Forensic Imag
 
 # Usage
 Disable automount on Raspberry Pi - http://instatronic.com/post/raspberry-pi-disable-automount-removable-drive
+
 sudo ./app.py
 
 # Screenshots
