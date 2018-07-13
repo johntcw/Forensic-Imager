@@ -1,4 +1,15 @@
 #!/usr/bin/python3
+"""
+Forensic Imager
+
+A GUI tool on Raspberry Pi for creating Images from digital media. 
+Forensic Imager is targeted to be portable, easy to use and forensically sound.
+
+Author: John Wei
+Website: instatronic.com
+Email: johntcw@gmail.com
+Last edited: July 2018
+"""
 import io
 import os
 import re
